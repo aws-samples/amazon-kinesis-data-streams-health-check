@@ -26,7 +26,10 @@ are impaired.
     
 # Prerequisites
 
-To deploy this, you will need AWS CDK installed on your machine. 
+To deploy this, you will need 
+
+* AWS CDK installed on your machine
+* Docker installed on your machine 
 
 # Project Structure
 
